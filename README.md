@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://avinashwebfolio.netlify.app/](https://avinashwebfolio.netlify.app/)
 
-- 📝 I regularly write articles on [https://nomadule.com/](https://nomadule.com/)
-
 - 💬 Ask me about **Nodejs, Golang, Python, Nextjs, Docker**
 
 - 📫 How to reach me **m.avinashkumar96@gmail.com**
