@@ -6,7 +6,6 @@
 </p>
 
 - 🔭 I’m currently working on **Agentic AI, LLMs, and Orchestration Pipelines**
-- 🌱 I’m currently mastering **Advanced DSA & Distributed Systems**
 - 👯 I’m looking to collaborate on **Cloud-Native Architecture, AGI, and Web3**
 - 👨‍💻 All of my projects are available at [avinashwebfolio.netlify.app](https://avinashwebfolio.netlify.app/)
 - 📫 How to reach me: **m.avinashkumar96@gmail.com**
