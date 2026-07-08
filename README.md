@@ -16,8 +16,8 @@
 ## 🛠️ Core Expertise & Tech Stack
 Ordered by specialization and architectural depth:
 
-*   **Agentic AI & Processing:** Python, OpenAI, LlamaIndex, AWS Textract, Azure AI
-*   **Backend & Systems:** Golang, Node.js, gRPC, Protocol Buffers (Protos), FastAPI
+*   **Agentic AI & Processing:** Python, OpenAI, LlamaIndex, Meta/Facebook APIs (WhatsApp Cloud API), AWS Textract, Azure AI
+*   **Backend, Systems & Serverless:** Golang, Node.js, Serverless Architecture, gRPC, Protocol Buffers (Protos), FastAPI
 *   **Frontend Frameworks:** Next.js, React
 *   **Cloud & Orchestration:** AWS, GCP, Azure, Docker, Kubernetes, Fly.io, QStash (Upstash)
 *   **Databases & Search:** Vector DBs, Elasticsearch (ELK), PostgreSQL, MongoDB
