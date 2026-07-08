@@ -23,6 +23,11 @@ Ordered by specialization and architectural depth:
 
 ---
 
+> [!NOTE]  
+> **Privacy & Contributions Notice:** Professional projects listed here were developed using secure enterprise accounts provided by my employers to comply with privacy policies. As this is a personal GitHub account, the contribution graph only reflects occasional open-source work and personal experiments, not my daily commit history or full production output.
+
+---
+
 ## 🚀 Highlighted Projects
 
 ### 1. Intelligent Invoice-to-DB Pipeline
